@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning HTML, CSS and JS
+🌱 I’m currently learning HTML, CSS and Js
 <!--
 **TsukiNoKame/TsukiNoKame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
