@@ -1,2 +1,2 @@
 ## Hi there 👋
-🌱 I’m currently learning HTML, CSS and Js.
+🌱 I’m currently learning HTML, CSS, JS, Node and React.
